@@ -3,6 +3,17 @@
     <string name="movies">Movies</string>
     <string name="lorem">lorem ipsum dolor sit amet</string>
     <string name="see_detail">see detail</string>
+    <string name="synopsis">SYNOPSIS</string>
+    <string name="rating">Rating</string>
+    <string name="director">Director</string>
+    <string name="duration">Duration</string>
+    <string name="genre">Genre</string>
+    <string name="release">Release</string>
+    <string name="release_date">release date</string>
+    <string name="age_rating">age rating</string>
+    <string name="movie_director">movie director</string>
+    <string name="movie_duration">movie duration</string>
+    <string name="movie_genre">movie genre</string>
 
     <string-array name="movie_title">
         <item>Parasite</item>
@@ -17,6 +28,70 @@
         <item>3 Idiots</item>
     </string-array>
 
+    <string-array name="movie_genre">
+        <item>Thriller/Comedy</item>
+        <item>Comedy, Crime</item>
+        <item>Mystery, Thriller</item>
+        <item>Adventure, Sci-fi</item>
+        <item>Adventure, Sci-fi</item>
+        <item>Drama, Romance</item>
+        <item>Animation, Family</item>
+        <item>Animation, Fantasy</item>
+        <item>Drama</item>
+        <item>Comedy, Drama</item>
+    </string-array>
+
+    <string-array name="movie_duration">
+        <item>2h 12m</item>
+        <item>2h 11m</item>
+        <item>2h 29m</item>
+        <item>2h 22m</item>
+        <item>2h 20m</item>
+        <item>1h 58m</item>
+        <item>1h 52m</item>
+        <item>1h 46m</item>
+        <item>1h 53m</item>
+        <item>2h 30m</item>
+    </string-array>
+
+    <string-array name="movie_release">
+        <item>8 November 2019</item>
+        <item>27 November 2019</item>
+        <item>3 October 2014</item>
+        <item>23 March 2012</item>
+        <item>29 March 2018</item>
+        <item>17 October 2014</item>
+        <item>17 January 2020</item>
+        <item>7 April 2017</item>
+        <item>24 February 2016</item>
+        <item>25 December 2009  </item>
+    </string-array>
+
+    <string-array name="movie_director">
+        <item>Bong Joon Ho</item>
+        <item>Rian Johnson</item>
+        <item>David Fincher</item>
+        <item>Gary Ross</item>
+        <item>Steven Spielberg</item>
+        <item>Michael Hoffman</item>
+        <item>Makoto Shinkai</item>
+        <item>Makoto Shinkai</item>
+        <item>Lee Eun Hee</item>
+        <item>Rajkuma Hirani</item>
+    </string-array>
+    <string-array name="movie_rating">
+        <item>R</item>
+        <item>PG-13</item>
+        <item>R</item>
+        <item>PG-13</item>
+        <item>PG-13</item>
+        <item>PG-13</item>
+        <item>PG-13</item>
+        <item>PG</item>
+        <item>PG-13</item>
+        <item>PG-13</item>
+    </string-array>
+
     <string-array name="movie_description">
         <item>A poor family, the Kims, con their way into becoming the servants of a rich family, the Parks. But their easy life gets complicated when their deception is threatened with exposure. </item>
         <item>Wealthy crime novelist Harlan Thrombey invites his family to his Massachusetts mansion for his 85th birthday party. The next morning, Harlan housekeeper Fran finds him dead, with his throat slit. The police are convinced that Harlan death is a suicide, but an anonymous party pays private detective Benoit Blanc to investigate. Blanc learns that Harlan relationships with his family had become strained. He threatened to expose his son-in-law Richard for cheating on his wife Linda, cut off his daughter-in-law Joni allowance for stealing from him, fired his younger son Walt from his publishing company, and had an altercation with his grandson Ransom.</item>
@@ -26,8 +101,8 @@
         <item>Dawson Cole works on an oil rig off the coast of Louisiana. An explosion on the job nearly kills him, throwing him into the water, but miraculously he survives. Months later, after recovering, Dawson learns that his close friend and surrogate father, Tuck Hostetler, has died and returns home for the first time in almost twenty years to carry out Tuck final wishes. When he arrives at his house, Dawson is surprised to find that Tuck also arranged for Dawson high school girlfriend, Amanda Collier, to join him. It seems that Tuck intention was that Dawson and Amanda would perhaps rekindle their former romance. However, Amanda is now married.</item>
         <item>High schooler Hodaka Morishima runs away from his island home, planning to move to Tokyo. When his ferry is hit by a freak rainstorm, he is saved by Keisuke Suga, who gives Hodaka his business card. In Tokyo, Hodaka struggles to find work, a teenage McDonald employee, Hina, takes pity on him and gives him food. After a chance encounter with a mobster, Hodaka finds a gun in a trashcan. Suga hires him as his assistant at a small publishing company, where he meets Suga niece Natsumi. They investigate urban legends relating to the unusually rainy weather in Tokyo, from a psychic, they hear the legend of a weather maiden who can control the weather.</item>
         <item>Mitsuha Miyamizu is a high school girl living in the town of Itomori in Japan mountainous Hida region. She is bored with country life and wishes to be a handsome boy in her next life. She begins to switch bodies intermittently with Taki Tachibana, a high school boy in Tokyo, when they wake up. They communicate by writing messages on paper, their phones, and sometimes on each other skin. Mitsuha causes Taki to develop a relationship with his coworker Miki, while Taki causes Mitsuha to become popular in school.</item>
-        <item>23 years ago in 1991, five friends spend the summer together. One of them, shy and innocent Beom-sil falls in love with Soook. Beom-sil has a noticeable crush to Soook and waits by the girl window during the summer. Soook suffers with a leg injury that cant make her walk properly so she is always carried by Boem-sil. The love blossoms and how he always sees her as the girl he had want to marry.</item>
-        <item>In the year 1999, Farhan Qureshi and Raju Rastogi begin their college year in the prestigious Imperial College of Engineering (ICE) in Delhi. They are joined by Ranchoddas Chanchad, nicknamed Rancho, as their roommate. They meet Manmohan a.k.a. Millimetre, an adolescent boy helping the students . He is persuaded by Rancho to sneak into school and get educated. While Farhan chose to pursue engineering over his passion for photography to appease his father, Raju has taken the course in an attempt to end his family poverty and is always afraid of failing. Rancho, on the other hand, is genuinely passionate in science and engineering. He believes in hands on learning and tends to give unorthodox answers in class, resulting in him coming into conflict with the professors, particularly the institution director, Viru Sahastrabuddhe, whom the ICE community nicknames Virus. Virus traditional and strict philosophies on education contrast sharply with Rancho carefree love of learning. Meanwhile, Chatur, nicknamed Silencer (because of his nature of silently farting), is an arrogant student with little knowledge of Hindi due to his Ugandan-Tamilian upbringing, who is obsessed with topping the exams and invariably learns by rote.</item>
+        <item>23 years ago in 1991, five friends spend the summer together. One of them, shy and innocent Beom-sil falls in love with Soook. Beom-sil has a noticeable crush to Soook and waits by the girl window during the summer.</item>
+        <item>In the year 1999, Farhan Qureshi and Raju Rastogi begin their college year in the prestigious Imperial College of Engineering (ICE) in Delhi. They are joined by Ranchoddas Chanchad, nicknamed Rancho, as their roommate.</item>
     </string-array>
 
     <array name="movie_photo">

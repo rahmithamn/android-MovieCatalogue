@@ -1,16 +1,21 @@
 package com.rmn.moviecatalogue
 
 import android.content.Context
+import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.BaseAdapter
+import android.widget.Button
 import android.widget.ImageView
 import android.widget.TextView
+import androidx.core.content.ContextCompat.startActivity
 
 class MovieAdapter internal constructor(private val context: Context) : BaseAdapter() {
     internal var movies = arrayListOf<Movie>()
-
+    companion object {
+        const val EXTRA_MOVIE= "extra_movie"
+    }
     override fun getView(position: Int, view: View?, viewGroup: ViewGroup?): View {
         var itemView = view
         if (itemView == null) {
@@ -29,6 +34,7 @@ class MovieAdapter internal constructor(private val context: Context) : BaseAdap
             txtTitle.text = movie.movieTitle
             txtDescription.text = movie.moviedescription
             imgPoster.setImageResource(movie.moviePoster)
+
         }
     }
 
